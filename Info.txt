@@ -1,2 +1,3 @@
 Hi,
-This is a simple repo where you can make your contributions to open sources
+This is a simple repo where you can make your contributions to open sources.
+Hey I am the first contributor here!
